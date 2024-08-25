@@ -1,0 +1,55 @@
+header {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 30px;
+    border-bottom: 7px solid orange;
+
+    h1 {
+        text-align: center;
+      }
+      
+  }
+
+  .centered-content {
+    text-align: center;
+  }
+  
+  .centered-table {
+    margin: 0 auto;
+  }  
+
+  .partial {
+    border: 1px solid red;
+    padding: 15px;
+  }
+
+  table th {
+    background-color: #fbc25b;
+    padding: 10px 20px;
+  }
+  
+  table td {
+    background-color: #f9ecd5;
+    padding: 10px 20px;
+  }
+
+  .notice {
+    background-color: #ccf;
+    padding: 5px;
+    color: green;
+  }
+ 
+  .error-message {
+    background-color: #ccf;
+    padding: 5px;
+    color: red;
+  }
+
+  .required {
+    color: red;
+    margin-left: 5px;
+  }
+  
+
+  
+    
